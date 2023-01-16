@@ -906,6 +906,7 @@ color: rgb(105, 100, 100);
  #mobile{
     display: flex;
     align-items: center;
+    z-index: 9999;
  }
  #mobile i{
     color: #1a1a1a;
